@@ -51,5 +51,8 @@ API endpoints used from https://petstore.swagger.io/
 ## Test Scenarios
 ### UI:
 
+https://app.qase.io/project/PATP?suite=2
 
 ### API:
+
+https://app.qase.io/project/PATP?suite=1
